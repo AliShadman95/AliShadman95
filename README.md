@@ -16,21 +16,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&vCenter=true&width=440&height=45&lines=Full-stack+web+and+app+developer;4%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
-<p align="center>
 <!-- all-shields/aboutme:START -->
 
-[![OS](https://img.shields.io/badge/-MacOS-31E2F7FF.svg?style=flat&logo=macOS)](https://www.apple.com/it/macos/monterey/) [![code](https://img.shields.io/badge/-Javascript-31E2F7FF.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![Editor](https://img.shields.io/badge/-VSCode-31E2F7FF.svg?style=flat&logo=VisualStudioCode)](https://code.visualstudio.com/)
+[![OS](https://img.shields.io/badge/-MacOS-white.svg?style=flat&logo=macOS)](https://www.apple.com/it/macos/monterey/) [![code](https://img.shields.io/badge/-Javascript-white.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![Editor](https://img.shields.io/badge/-VSCode-white.svg?style=flat&logo=VisualStudioCode)](https://code.visualstudio.com/)
 
 <!-- all-shields/aboutme:END -->
-</p>
 
-<p align="center>
 <!-- all-shields/socials:START -->
 
-[![](https://img.shields.io/badge/-Linkedin-31E2F7FF.svg?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io/badge/-Twitter-31E2F7FF.svg?style=for-the-badge&logo=Twitter)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-Portfolio-31E2F7FF.svg?style=for-the-badge&logo=Circle)](https://alishd.dev/)
+[![](https://img.shields.io/badge/-Linkedin-white.svg?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io/badge/-Twitter-white.svg?style=for-the-badge&logo=Twitter)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-Portfolio-white.svg?style=for-the-badge&logo=Circle)](https://alishd.dev/)
 
 <!-- all-shields/socials:END -->
-</p>
 
 <br/>
 
@@ -53,7 +49,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ali shadman's streak" src="https://streak-stats.demolab.com/?user=alishadman95&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ali shadman's streak" src="https://streak-stats.demolab.com/?user=alishadman95&theme=monokai-metallian&hide_border=true&theme=react"/>
   </a>
 </p>
 
