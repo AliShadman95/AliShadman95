@@ -15,7 +15,7 @@
           "style": "flat",
           "logo": "macOS",
           "platform": "shields",
-          "custom": "https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=36BBF7"
+          "custom": "/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=36BBF7"
         },
         {
           "url": "https://www.javascript.com/",
