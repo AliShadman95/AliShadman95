@@ -18,13 +18,13 @@
 
 <!-- all-shields/aboutme:START -->
 
-[![](https://img.shields.io?labelColor=white)](https://www.apple.com/it/macos/monterey/) [![](https://img.shields.io?labelColor=white)](https://www.javascript.com/) [![](https://img.shields.io?labelColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.iolabelColor=white)](https://www.apple.com/it/macos/monterey/) [![](https://img.shields.iolabelColor=white)](https://www.javascript.com/) [![](https://img.shields.iolabelColor=white)](https://code.visualstudio.com/)
 
 <!-- all-shields/aboutme:END -->
 
 <!-- all-shields/socials:START -->
 
-[![](https://img.shields.io?labelColor=white)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io?labelColor=white)](https://code.visualstudio.com/) [![](https://img.shields.io?labelColor=white)](https://alishd.dev/)
+[![](https://img.shields.iolabelColor=white)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.iolabelColor=white)](https://code.visualstudio.com/) [![](https://img.shields.iolabelColor=white)](https://alishd.dev/)
 
 <!-- all-shields/socials:END -->
 
