@@ -9,8 +9,8 @@
         {
           "url": "https://www.apple.com/it/macos/monterey/",
           "color": "#36BBF7",
-          "label": "",
-          "title": "OS",
+          "label": "OS",
+          "title": "",
           "message": "MacOS",
           "style": "flat",
           "logo": "macOS",
@@ -19,8 +19,8 @@
         {
           "url": "https://www.javascript.com/",
           "color": "#36BBF7",
-          "label": "",
-          "title": "code",
+          "label": "code",
+          "title": "",
           "message": "Javascript",
           "style": "flat",
           "logo": "Javascript",
@@ -29,8 +29,8 @@
         {
           "url": "https://code.visualstudio.com/",
           "color": "#36BBF7",
-          "label": "",
-          "title": "Editor",
+          "label": "Editor",
+          "title": "",
           "message": "VSCode",
           "style": "flat",
           "logo": "VisualStudioCode",

@@ -18,7 +18,7 @@
 
 <!-- all-shields/aboutme:START -->
 
-[![OS](https://img.shields.io/badge/-MacOS-36BBF7.svg?style=flat&logo=macOS)](https://www.apple.com/it/macos/monterey/) [![code](https://img.shields.io/badge/-Javascript-36BBF7.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![Editor](https://img.shields.io/badge/-VSCode-36BBF7.svg?style=flat&logo=VisualStudioCode)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/OS-MacOS-36BBF7.svg?style=flat&logo=macOS)](https://www.apple.com/it/macos/monterey/) [![](https://img.shields.io/badge/code-Javascript-36BBF7.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![](https://img.shields.io/badge/Editor-VSCode-36BBF7.svg?style=flat&logo=VisualStudioCode)](https://code.visualstudio.com/)
 
 <!-- all-shields/aboutme:END -->
 
