@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Static Template</title>
   </head>
   <body>
    <h3 align="center">
@@ -20,7 +19,7 @@
 <p align="center>
 <!-- all-shields/aboutme:START -->
 
-[![OS](https://img.shields.io/badge/-MacOS-36BCF7FF.svg?style=flat&logo=macOS)](https://www.apple.com/it/macos/monterey/) [![code](https://img.shields.io/badge/-Javascript-36BCF7FF.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![Editor](https://img.shields.io/badge/-VSCode-36BCF7FF.svg?style=flat&logo=Visual Studio Code)](https://code.visualstudio.com/)
+[![OS](https://img.shields.io/badge/-MacOS-31E2F7FF.svg?style=flat&logo=macOS)](https://www.apple.com/it/macos/monterey/) [![code](https://img.shields.io/badge/-Javascript-31E2F7FF.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![Editor](https://img.shields.io/badge/-VSCode-31E2F7FF.svg?style=flat&logo=VisualStudioCode)](https://code.visualstudio.com/)
 
 <!-- all-shields/aboutme:END -->
 </p>
@@ -28,7 +27,7 @@
 <p align="center>
 <!-- all-shields/socials:START -->
 
-[![](https://img.shields.io/badge/-Linkedin-36BCF7FF.svg?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io/badge/-Twitter-36BCF7FF.svg?style=for-the-badge&logo=Twitter)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-Portfolio-36BCF7FF.svg?style=for-the-badge&logo=Circle)](https://alishd.dev/)
+[![](https://img.shields.io/badge/-Linkedin-31E2F7FF.svg?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io/badge/-Twitter-31E2F7FF.svg?style=for-the-badge&logo=Twitter)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-Portfolio-31E2F7FF.svg?style=for-the-badge&logo=Circle)](https://alishd.dev/)
 
 <!-- all-shields/socials:END -->
 </p>
@@ -208,11 +207,6 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#178](https://github.com/PyCQA/autoflake/issues/178) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-2. 💪 Opened PR [#177](https://github.com/PyCQA/autoflake/pull/177) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-3. 🗣 Commented on [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-4. ❗️ Opened issue [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-5. 🗣 Commented on [#856](https://github.com/nextcord/nextcord/issues/856) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
    <!--END_SECTION:activity-->
    </details>
 
