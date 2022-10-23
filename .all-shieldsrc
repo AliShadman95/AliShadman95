@@ -15,7 +15,7 @@
           "style": "flat",
           "logo": "macOS",
           "platform": "shields",
-          "custom": "labelColor=white"
+          "custom": "https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=36BBF7"
         },
         {
           "url": "https://www.javascript.com/",
@@ -25,8 +25,7 @@
           "message": "Javascript",
           "style": "flat",
           "logo": "Javascript",
-          "platform": "shields",
-          "custom": "labelColor=white"
+          "platform": "shields"
         },
         {
           "url": "https://code.visualstudio.com/",
@@ -36,8 +35,7 @@
           "message": "VSCode",
           "style": "flat",
           "logo": "VisualStudioCode",
-          "platform": "shields",
-          "custom": "labelColor=white"
+          "platform": "shields"
         }
       ]
     },
@@ -52,8 +50,7 @@
           "message": "Linkedin",
           "style": "for-the-badge",
           "logo": "LinkedIn",
-          "platform": "shields",
-          "custom": "labelColor=white"
+          "platform": "shields"
         },
         {
           "url": "https://code.visualstudio.com/",
@@ -63,8 +60,7 @@
           "message": "Twitter",
           "style": "for-the-badge",
           "logo": "Twitter",
-          "platform": "shields",
-          "custom": "labelColor=white"
+          "platform": "shields"
         },
         {
           "url": "https://alishd.dev/",
@@ -74,8 +70,7 @@
           "message": "Portfolio",
           "style": "for-the-badge",
           "logo": "Circle",
-          "platform": "shields",
-          "custom": "labelColor=white"
+          "platform": "shields"
         }
       ]
     }
