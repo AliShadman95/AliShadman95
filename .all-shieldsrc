@@ -8,7 +8,7 @@
       "badges": [
         {
           "url": "https://www.apple.com/it/macos/monterey/",
-          "color": "#31E2F7FF",
+          "color": "white",
           "label": "",
           "title": "OS",
           "message": "MacOS",
@@ -18,7 +18,7 @@
         },
         {
           "url": "https://www.javascript.com/",
-          "color": "#31E2F7FF",
+          "color": "white",
           "label": "",
           "title": "code",
           "message": "Javascript",
@@ -28,7 +28,7 @@
         },
         {
           "url": "https://code.visualstudio.com/",
-          "color": "#31E2F7FF",
+          "color": "white",
           "label": "",
           "title": "Editor",
           "message": "VSCode",
@@ -43,7 +43,7 @@
       "badges": [
         {
           "url": "https://www.linkedin.com/in/alishd/",
-          "color": "#31E2F7FF",
+          "color": "white",
           "label": "",
           "title": "",
           "message": "Linkedin",
@@ -53,7 +53,7 @@
         },
         {
           "url": "https://code.visualstudio.com/",
-          "color": "#31E2F7FF",
+          "color": "white",
           "label": "",
           "title": "",
           "message": "Twitter",
@@ -63,7 +63,7 @@
         },
         {
           "url": "https://alishd.dev/",
-          "color": "#31E2F7FF",
+          "color": "white",
           "label": "",
           "title": "",
           "message": "Portfolio",
