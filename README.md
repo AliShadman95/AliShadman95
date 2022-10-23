@@ -18,13 +18,13 @@
 
 <!-- all-shields/aboutme:START -->
 
-[![](https://img.shields.io/badge/OS-MacOS-36BBF7.svg?style=flat&logo=macOS)](https://www.apple.com/it/macos/monterey/) [![](https://img.shields.io/badge/code-Javascript-36BBF7.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![](https://img.shields.io/badge/Editor-VSCode-36BBF7.svg?style=flat&logo=VisualStudioCode)](https://code.visualstudio.com/)
+[![](https://img.shields.io?labelColor=white)](https://www.apple.com/it/macos/monterey/) [![](https://img.shields.io?labelColor=white)](https://www.javascript.com/) [![](https://img.shields.io?labelColor=white)](https://code.visualstudio.com/)
 
 <!-- all-shields/aboutme:END -->
 
 <!-- all-shields/socials:START -->
 
-[![](https://img.shields.io/badge/-Linkedin-36BBF7.svg?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io/badge/-Twitter-36BBF7.svg?style=for-the-badge&logo=Twitter)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-Portfolio-36BBF7.svg?style=for-the-badge&logo=Circle)](https://alishd.dev/)
+[![](https://img.shields.io?labelColor=white)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io?labelColor=white)](https://code.visualstudio.com/) [![](https://img.shields.io?labelColor=white)](https://alishd.dev/)
 
 <!-- all-shields/socials:END -->
 
