@@ -1,0 +1,77 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "shields": [
+    {
+      "id": "aboutme",
+      "badges": [
+        {
+          "url": "https://www.apple.com/it/macos/monterey/",
+          "color": "#36BCF7FF",
+          "label": "",
+          "title": "OS",
+          "message": "MacOS",
+          "style": "flat",
+          "logo": "macOS",
+          "platform": "shields"
+        },
+        {
+          "url": "https://www.javascript.com/",
+          "color": "#36BCF7FF",
+          "label": "",
+          "title": "code",
+          "message": "Javascript",
+          "style": "flat",
+          "logo": "Javascript",
+          "platform": "shields"
+        },
+        {
+          "url": "https://code.visualstudio.com/",
+          "color": "#36BCF7FF",
+          "label": "",
+          "title": "Editor",
+          "message": "VSCode",
+          "style": "flat",
+          "logo": "Visual Studio Code",
+          "platform": "shields"
+        }
+      ]
+    },
+    {
+      "id": "socials",
+      "badges": [
+        {
+          "url": "https://www.linkedin.com/in/alishd/",
+          "color": "#36BCF7FF",
+          "label": "",
+          "title": "",
+          "message": "Linkedin",
+          "style": "for-the-badge",
+          "logo": "LinkedIn",
+          "platform": "shields"
+        },
+        {
+          "url": "https://code.visualstudio.com/",
+          "color": "#36BCF7FF",
+          "label": "",
+          "title": "",
+          "message": "Twitter",
+          "style": "for-the-badge",
+          "logo": "Twitter",
+          "platform": "shields"
+        },
+        {
+          "url": "https://alishd.dev/",
+          "color": "#36BCF7FF",
+          "label": "",
+          "title": "",
+          "message": "Portfolio",
+          "style": "for-the-badge",
+          "logo": "Circle",
+          "platform": "shields"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "alishadman95",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all-shields-generate": "all-shields-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliShadman95/AliShadman95.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliShadman95/AliShadman95/issues"
+  },
+  "homepage": "https://github.com/AliShadman95/AliShadman95#readme"
+}
