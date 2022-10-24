@@ -39,8 +39,8 @@
 
 <p align="left">
   <a href="https://github.com/alishadman95/godbot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=alishadman95&repo=godbot&theme=github_dark&hide_border=true&bg_color=1F222E" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/alishd-boilerplate/discord-node-bot-boilerplate"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=alishd-boilerplate&repo=discord-node-bot-boilerplate&theme=github_dark&show_icons=false&bg_color=1F222E" alt="readme-typing-svg"></a>
-  <a href="https://github.com/alishadman95/banksim"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=alishadman95&repo=banksim&theme=github_dark&hide_border=true&show_icons=false&bg_color=1F222E" alt="custom-icon-badges"></a>
+  <a href="https://github.com/alishd-boilerplate/discord-node-bot-boilerplate"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=alishd-boilerplate&repo=discord-node-bot-boilerplate&theme=github_dark&bg_color=1F222E&hide_border=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/alishadman95/banksim"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=alishadman95&repo=banksim&theme=github_dark&hide_border=true&bg_color=1F222E" alt="custom-icon-badges"></a>
   
 </p>
 
