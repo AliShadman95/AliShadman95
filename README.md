@@ -16,8 +16,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&vCenter=true&width=440&height=45&lines=Full-stack+web+and+app+developer;4%2B+years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
-##
-
 <!-- all-shields/aboutme:START -->
 <div align=center>
 
@@ -38,6 +36,8 @@
 <br/>
 
 ## 📘 My top open source projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://github.com/alishadman95?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -137,7 +137,6 @@
 
 <!--START_SECTION:activity-->
 
-   <!--END_SECTION:activity-->
    </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
