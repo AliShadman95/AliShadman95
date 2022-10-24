@@ -25,7 +25,8 @@
           "message": "Javascript",
           "style": "flat",
           "logo": "Javascript",
-          "platform": "shields"
+          "platform": "shields",
+          "custom": "/badge/code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=36BBF7"
         },
         {
           "url": "https://code.visualstudio.com/",
@@ -35,7 +36,8 @@
           "message": "VSCode",
           "style": "flat",
           "logo": "VisualStudioCode",
-          "platform": "shields"
+          "platform": "shields",
+          "custom": "/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=36BBF7"
         }
       ]
     },
@@ -47,19 +49,9 @@
           "color": "#36BBF7",
           "label": "",
           "title": "",
-          "message": "Linkedin",
+          "message": "LinkedIn",
           "style": "for-the-badge",
           "logo": "LinkedIn",
-          "platform": "shields"
-        },
-        {
-          "url": "https://code.visualstudio.com/",
-          "color": "#36BBF7",
-          "label": "",
-          "title": "",
-          "message": "Twitter",
-          "style": "for-the-badge",
-          "logo": "Twitter",
           "platform": "shields"
         },
         {

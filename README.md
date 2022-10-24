@@ -17,15 +17,19 @@
 </p>
 
 <!-- all-shields/aboutme:START -->
+<p align="center">
 
-[![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=36BBF7)](https://www.apple.com/it/macos/monterey/) [![](https://img.shields.io/badge/code-Javascript-36BBF7.svg?style=flat&logo=Javascript)](https://www.javascript.com/) [![](https://img.shields.io/badge/Editor-VSCode-36BBF7.svg?style=flat&logo=VisualStudioCode)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=36BBF7)](https://www.apple.com/it/macos/monterey/) [![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=36BBF7)](https://www.javascript.com/) [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=36BBF7)](https://code.visualstudio.com/)
 
+</p>
 <!-- all-shields/aboutme:END -->
 
 <!-- all-shields/socials:START -->
+<p align="center">
 
-[![](https://img.shields.io/badge/-Linkedin-36BBF7.svg?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io/badge/-Twitter-36BBF7.svg?style=for-the-badge&logo=Twitter)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/-Portfolio-36BBF7.svg?style=for-the-badge&logo=Circle)](https://alishd.dev/)
+[![](https://img.shields.io/badge/-LinkedIn-36BBF7.svg?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/alishd/) [![](https://img.shields.io/badge/-Portfolio-36BBF7.svg?style=for-the-badge&logo=Circle)](https://alishd.dev/)
 
+</p>
 <!-- all-shields/socials:END -->
 
 <br/>
