@@ -38,6 +38,8 @@
 ## 📘 My top open source projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishadman95&repo=godbot&theme=github_dark)](https://github.com/alishadman95/godbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishd-boilerplate&repo=discord-node-bot-boilerplate&theme=github_dark)](https://github.com/alishd-boilerplate/discord-node-bot-boilerplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alishadman95&repo=banksim&theme=github_dark)](https://github.com/alishadman95/banksim)
 
 <p align="left">
   <a href="https://github.com/alishadman95?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
