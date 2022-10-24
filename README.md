@@ -146,7 +146,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ali Shadman's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=alishadman95&bg_color=1F222&&hide_border=true&theme=react" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ali Shadman's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=alishadman95&theme=react&hide_border=true" /></a>
 
   </body>
 </html>
