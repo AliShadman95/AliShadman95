@@ -140,8 +140,9 @@
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
    </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
