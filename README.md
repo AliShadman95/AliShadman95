@@ -142,14 +142,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [ptkdev/rpg-monster-telegram-game-bot](https://github.com/ptkdev/rpg-monster-telegram-game-bot)
-2. ⬆️ Pushed 2 commit(s) to [ptkdev/rpg-monster-telegram-game-bot](https://github.com/ptkdev/rpg-monster-telegram-game-bot)
-3. ⭐ Starred [ptkdev/rpg-monster-telegram-game-bot](https://github.com/ptkdev/rpg-monster-telegram-game-bot)
-4. ⬆️ Pushed 1 commit(s) to [AliShadman95/AliShadman95](https://github.com/AliShadman95/AliShadman95)
-5. ⬆️ Pushed 1 commit(s) to [AliShadman95/AliShadman95](https://github.com/AliShadman95/AliShadman95)
+2. ⬆️ Pushed 1 commit(s) to [ptkdev/rpg-monster-telegram-game-bot](https://github.com/ptkdev/rpg-monster-telegram-game-bot)
+3. ⬆️ Pushed 1 commit(s) to [ptkdev/rpg-monster-telegram-game-bot](https://github.com/ptkdev/rpg-monster-telegram-game-bot)
+4. ⬆️ Pushed 2 commit(s) to [ptkdev/rpg-monster-telegram-game-bot](https://github.com/ptkdev/rpg-monster-telegram-game-bot)
+5. ⭐ Starred [ptkdev/rpg-monster-telegram-game-bot](https://github.com/ptkdev/rpg-monster-telegram-game-bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 20th, 2022, 11:39:54 PM
+Last Updated: Monday, November 21st, 2022, 1:39:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
 
