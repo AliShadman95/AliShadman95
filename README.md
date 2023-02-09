@@ -141,15 +141,15 @@
   <br/>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 15 commit(s) to [AliShadman95/GodBot](https://github.com/AliShadman95/GodBot)
-2. ⬆️ Pushed 1 commit(s) to [AliShadman95/ynab-importer](https://github.com/AliShadman95/ynab-importer)
+1. ⬆️ Pushed 1 commit(s) to [AliShadman95/GodBot](https://github.com/AliShadman95/GodBot)
+2. ⬆️ Pushed 15 commit(s) to [AliShadman95/GodBot](https://github.com/AliShadman95/GodBot)
 3. ⬆️ Pushed 1 commit(s) to [AliShadman95/ynab-importer](https://github.com/AliShadman95/ynab-importer)
-4. ⬆️ Pushed 1 commit(s) to [AliShadman95/GodBot](https://github.com/AliShadman95/GodBot)
+4. ⬆️ Pushed 1 commit(s) to [AliShadman95/ynab-importer](https://github.com/AliShadman95/ynab-importer)
 5. ⬆️ Pushed 1 commit(s) to [AliShadman95/GodBot](https://github.com/AliShadman95/GodBot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 8th, 2023, 11:33:19 PM
+Last Updated: Thursday, February 9th, 2023, 12:17:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
 
