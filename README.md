@@ -142,11 +142,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [AliShadman95/Portfolio](https://github.com/AliShadman95/Portfolio)
-2. ⬆️ Pushed 1 commit(s) to [AliShadman95/Portfolio](https://github.com/AliShadman95/Portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 15th, 2023, 5:33:10 AM
+Last Updated: Wednesday, November 15th, 2023, 6:05:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
 
