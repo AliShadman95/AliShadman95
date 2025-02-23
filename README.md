@@ -141,15 +141,15 @@
   <br/>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AliShadman95/ali-shadman-portfolio](https://github.com/AliShadman95/ali-shadman-portfolio)
+1. ⬆️ Pushed 1 commit(s) to [AliShadman95/ynab-importer](https://github.com/AliShadman95/ynab-importer)
 2. ⬆️ Pushed 1 commit(s) to [AliShadman95/ali-shadman-portfolio](https://github.com/AliShadman95/ali-shadman-portfolio)
 3. ⬆️ Pushed 1 commit(s) to [AliShadman95/ali-shadman-portfolio](https://github.com/AliShadman95/ali-shadman-portfolio)
-4. 📔 Created new repository [AliShadman95/ali-shadman-portfolio](https://github.com/AliShadman95/ali-shadman-portfolio)
-5. 🔱 Forked [AliShadman95/ali-shadman-portfolio](https://github.com/AliShadman95/ali-shadman-portfolio) from [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio)
+4. ⬆️ Pushed 1 commit(s) to [AliShadman95/ali-shadman-portfolio](https://github.com/AliShadman95/ali-shadman-portfolio)
+5. 📔 Created new repository [AliShadman95/ali-shadman-portfolio](https://github.com/AliShadman95/ali-shadman-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 23rd, 2025, 4:04:49 PM
+Last Updated: Sunday, February 23rd, 2025, 4:35:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
 
