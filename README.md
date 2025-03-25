@@ -142,12 +142,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [AliShadman95/ynab-importer](https://github.com/AliShadman95/ynab-importer)
-2. 🔱 Forked [AliShadman95/actual](https://github.com/AliShadman95/actual) from [actualbudget/actual](https://github.com/actualbudget/actual)
-3. ⬆️ Pushed 1 commit(s) to [AliShadman95/ynab-importer](https://github.com/AliShadman95/ynab-importer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 25th, 2025, 3:05:26 PM
+Last Updated: Tuesday, March 25th, 2025, 3:36:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
 
